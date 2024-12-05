@@ -9,4 +9,4 @@ Initial table:
 
 ## Demo Links
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/test/)
+- [DEMO LINK](https://AndriiZakharenko.github.io/js_task_clone_table_column_DOM/)
