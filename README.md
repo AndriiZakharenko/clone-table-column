@@ -6,8 +6,6 @@ Initial table:
 
 ![Preview](./src/images/start.png)
 
-Expected table:
-![Result](./src/images/result.png)
 
 ## Demo Links
 
