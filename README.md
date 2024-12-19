@@ -20,7 +20,7 @@
 
 ### Demo links
 
-- [Demo](https://AndriiZakharenko.github.io/clone_table_column/)
+- [Demo](https://AndriiZakharenko.github.io/clone-table-column/)
 
 ### Reference Image
 
