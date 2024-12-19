@@ -1,8 +1,8 @@
-# Tree from object
+# Copy/Paste table column
 
 ### Description
 
-- Cloned the second column from the table and append it to the table
+- Cloned a column from the table and append it
 
 ### Stack
 
