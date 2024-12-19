@@ -1,12 +1,27 @@
-### Task: Copy/Paste table column
+# Tree from object
 
-Cloned the second column from the table, and append it to the table. To increase the complexity, append it in front of the last table column.
+### Description
 
-Initial table:
+- Cloned the second column from the table and append it to the table
 
-![Preview](./src/images/start.png)
+### Stack
 
+- HTML (BEM)
+- CSS
+- JS
 
-## Demo Links
+### Tools
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/js_task_clone_table_column_DOM/)
+- ESlint
+- Prettier
+- Cypress
+- Mochawesome
+- Parcel
+
+### Demo links
+
+- [Demo](https://AndriiZakharenko.github.io/clone_table_column/)
+
+### Reference Image
+
+<img src="./src/images/start.png" alt="reference image" width="400px" />
